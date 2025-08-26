@@ -5,24 +5,6 @@ It allows users (e.g., clients, loan officers, or businesses) to input financial
 
 ---
 
-## 🏗️ Project Structure
-
-ml_finance_render_deployment/
-│── app/
-│ ├── main.py # FastAPI entry point
-│ ├── model_loader.py # Loads the trained ML model
-│ ├── schemas.py # Input schema for validation
-│ ├── templates/
-│ │ └── index.html # Landing page with input form
-│── model/
-│ └── model.pkl # Trained ML model (saved with joblib)
-|── Capstone Finance Project.ipynb # prediction model
-│── Procfile # Render startup command
-│── requirements.txt # Project dependencies
-│── README.md # Project documentation
-
----
-
 ## 🚀 Deployment
 
 This app is currently deployed on **Render**.  
