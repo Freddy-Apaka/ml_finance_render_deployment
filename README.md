@@ -5,16 +5,6 @@ It allows users (e.g., clients, loan officers, or businesses) to input financial
 
 ---
 
-## 🌟 Features
-- Interactive **web form** for user input.
-- **Real-time prediction** using a trained Machine Learning model.
-- Clear results: `"Approved"` or `"Not Approved"`.
-- **Validation rules** (both frontend and backend) to ensure clean and valid user inputs.
-- Built with **FastAPI**, **Jinja2 templates**, and **scikit-learn**.
-- Deployed on **Render** for easy public access.
-
----
-
 ## 🏗️ Project Structure
 
 ml_finance_render_deployment/
